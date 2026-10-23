@@ -39,7 +39,7 @@
 
 ## 👨‍💻 About Me
 
-I'm Rahul Singh, a curious learner exploring how data and intelligent systems can solve real-world problems. I'm building my skills across data analysis, machine learning, and AI through continuous learning and hands-on projects.
+I'm Rahul, a curious learner exploring how data and intelligent systems can solve real-world problems. I'm building my skills across data analysis, machine learning, and AI through continuous learning and hands-on projects.
 
 - 🌱 **Currently learning:** Python, Data Science, Machine Learning, Artificial Intelligence, and Data Analytics.
 - 🔎 **Interested in:** Data-driven decision-making, predictive modeling, and emerging technologies.
