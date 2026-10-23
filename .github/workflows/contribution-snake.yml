@@ -16,13 +16,13 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate snake
-        uses: Platane/snk/svg-only@v3
+      - name: Generate contribution snake
+        uses: Platane/snk@v3
         with:
           github_user_name: Rahul-Singh18
           outputs: dist/github-contribution-grid-snake.svg
 
-      - name: Publish snake
+      - name: Publish contribution snake
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
