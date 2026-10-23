@@ -1,31 +1,212 @@
-<h1 align="center">Hi 👋, I'm Rahul Singh</h1>
-<h3 align="center">Exploring the world of Data, Artificial Intelligence, and Technology.</h3>
+<!--
+  GitHub Profile README
+  Repository: Rahul-Singh18/Rahul-Singh18
+  Theme: Midnight / Cyan
+-->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rahul-singh18&label=Profile%20views&color=0e75b6&style=flat" alt="rahul-singh18" /> </p>
+<div align="center">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahul-singh18" alt="rahul-singh18" /></a> </p>
+# 👋 Hey, I'm Rahul Singh
 
-- 🌱 I’m currently learning **Python, Data Science, Machine Learning, Artificial Intelligence, and Data Analytics.**
+### 💻 Data Science | Artificial Intelligence | Machine Learning
 
-- 💬 Ask me about **AI, Data Science, Machine Learning, Data Analytics, and emerging technologies.**
+*Turning data into insights and ideas into intelligent solutions.*
 
-- 📫 How to reach me **rahulsingh96112@gmail.com**
+<br>
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1J8rwt52gv1lepGIAvyQrLjH_rLrDhHY7/view?usp=sharing](https://drive.google.com/file/d/1J8rwt52gv1lepGIAvyQrLjH_rLrDhHY7/view?usp=sharing)
+<a href="https://github.com/Rahul-Singh18">
+  <img src="https://komarev.com/ghpvc/?username=Rahul-Singh18&label=Profile%20Views&color=00D9FF&style=for-the-badge" alt="Profile views" />
+</a>
+<a href="https://github.com/Rahul-Singh18?tab=followers">
+  <img src="https://img.shields.io/github/followers/Rahul-Singh18?label=Followers&style=for-the-badge&color=00D9FF&logo=github" alt="GitHub followers" />
+</a>
+<a href="https://github.com/Rahul-Singh18?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore-My%20Repositories-181717?style=for-the-badge&logo=github" alt="Explore repositories" />
+</a>
 
-- ⚡ Fun fact **Powered by curiosity, caffeine, and a little bit of AI.**
+<br><br>
 
-<h3 align="left">Connect with me:</h3>
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)](https://github.com/Rahul-Singh18)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square\&logo=leetcode\&logoColor=black)](https://leetcode.com/rahulsingh96112/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square\&logo=gmail\&logoColor=white)](mailto:rahulsingh96112@gmail.com)
+[![AI & Data](https://img.shields.io/badge/AI%20%26%20Data-Exploring-00D9FF?style=flat-square\&logo=googlescholar\&logoColor=white)](https://github.com/Rahul-Singh18)
+
+</div>
+
+---
+
+## 🧑‍💻 About Me
+
+I'm Rahul Singh, an aspiring technology enthusiast exploring the exciting intersection of **Data Science, Artificial Intelligence, Machine Learning, and Data Analytics**.
+
+I enjoy learning new technologies, solving problems, exploring data, and building projects that turn ideas into practical solutions.
+
+* 🌱 **Currently learning:** Python, Data Science, Machine Learning, AI, and Data Analytics.
+* 🔍 **Interested in:** Data-driven decision-making, intelligent systems, and emerging technologies.
+* 🛠️ **Building:** Projects to strengthen my programming, analytical, and problem-solving skills.
+* 📚 **Learning mindset:** Consistency, curiosity, experimentation, and continuous improvement.
+* ☕ **Fun fact:** Powered by curiosity, caffeine, and a little bit of AI.
+
+📄 **[View My Resume / Experience](https://drive.google.com/file/d/1J8rwt52gv1lepGIAvyQrLjH_rLrDhHY7/view?usp=sharing)**
+
+📫 **Reach me at:** [rahulsingh96112@gmail.com](mailto:rahulsingh96112@gmail.com)
+
+---
+
+## 🧰 Tech Stack & Tools
+
+### 🐍 Programming Languages
+
 <p align="left">
-<a href="https://linkedin.com/in/rahul singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahul singh" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/rahulsingh96112" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rahulsingh96112" height="30" width="40" /></a>
+  <img src="https://skillicons.dev/icons?i=python,java,c,html,css,bash&theme=dark" alt="Programming languages" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+### 📊 Data Science & Machine Learning
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahul-singh18&show_icons=true&locale=en&layout=compact" alt="rahul-singh18" /></p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark" alt="Machine learning tools" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" alt="Seaborn" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahul-singh18&show_icons=true&locale=en" alt="rahul-singh18" /></p>
+### 🗄️ Databases
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahul-singh18&" alt="rahul-singh18" /></p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite&theme=dark" alt="Database technologies" />
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="Microsoft SQL Server" />
+</p>
+
+### ⚙️ Development & Infrastructure
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,linux,docker,aws,kubernetes&theme=dark" alt="Development and infrastructure tools" />
+</p>
+
+### 🎨 Design & Other Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=figma,ps,ai&theme=dark" alt="Design tools" />
+  <img src="https://img.shields.io/badge/Appwrite-FD366E?style=for-the-badge&logo=appwrite&logoColor=white" alt="Appwrite" />
+</p>
+
+---
+
+## 📌 Featured Projects
+
+Here are a few projects I'd like to showcase. Replace the examples below with your actual repositories before publishing this section.
+
+<!--
+IMPORTANT:
+1. Replace REPOSITORY_NAME_1 with an actual repository name.
+2. Replace REPOSITORY_NAME_2 with an actual repository name.
+3. Replace the descriptions with accurate project summaries.
+4. Add more project cards if needed.
+-->
+
+<!--
+<div align="center">
+
+<a href="https://github.com/Rahul-Singh18/REPOSITORY_NAME_1">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rahul-Singh18&repo=REPOSITORY_NAME_1&theme=tokyonight&hide_border=true" alt="Featured project 1" />
+</a>
+
+<a href="https://github.com/Rahul-Singh18/REPOSITORY_NAME_2">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rahul-Singh18&repo=REPOSITORY_NAME_2&theme=tokyonight&hide_border=true" alt="Featured project 2" />
+</a>
+
+</div>
+-->
+
+<div align="center">
+
+🔎 **[Explore All My Repositories →](https://github.com/Rahul-Singh18?tab=repositories)**
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Rahul-Singh18&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight" alt="GitHub statistics" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul-Singh18&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" alt="Most used programming languages" />
+
+</div>
+
+<div align="center">
+
+<img width="70%" src="https://streak-stats.demolab.com?user=Rahul-Singh18&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+[![Rahul's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rahul-Singh18\&bg_color=1a1b27\&color=70a5fd\&line=00d9ff\&point=ffffff\&area=true\&hide_border=true)](https://github.com/Rahul-Singh18)
+
+</div>
+
+---
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Rahul-Singh18\&theme=tokyonight\&no-frame=true\&no-bg=true\&margin-w=8\&row=1\&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 🌟 My GitHub Highlights
+
+<div align="center">
+
+<a href="https://github.com/Rahul-Singh18?tab=repositories">
+  <img src="https://img.shields.io/badge/Public%20Repositories-Explore-00D9FF?style=for-the-badge&logo=github&logoColor=white" alt="Public repositories" />
+</a>
+
+<a href="https://github.com/Rahul-Singh18?tab=stars">
+  <img src="https://img.shields.io/badge/Starred%20Projects-Explore-FFD700?style=for-the-badge&logo=github&logoColor=181717" alt="Starred projects" />
+</a>
+
+<a href="https://github.com/Rahul-Singh18?tab=overview&from=2026-01-01&to=2026-12-31">
+  <img src="https://img.shields.io/badge/Contributions-View%20Profile-2EA44F?style=for-the-badge&logo=github&logoColor=white" alt="Contributions" />
+</a>
+
+</div>
+
+---
+
+## 🤝 Let's Connect!
+
+I'm always interested in learning, sharing ideas, and connecting with people passionate about technology, data, and AI.
+
+<div align="center">
+
+<a href="https://github.com/Rahul-Singh18">
+  <img src="https://img.shields.io/badge/GitHub-Follow%20My%20Journey-181717?style=for-the-badge&logo=github" alt="GitHub" />
+</a>
+
+<a href="https://leetcode.com/rahulsingh96112/">
+  <img src="https://img.shields.io/badge/LeetCode-Solve%20Together-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+</a>
+
+<a href="mailto:rahulsingh96112@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Let's%20Talk-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+
+<br><br>
+
+### 💡 *"Stay curious. Keep building. Never stop learning."*
+
+⭐ If you find something interesting in my repositories, feel free to explore and leave a star!
+
+</div>
