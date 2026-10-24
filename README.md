@@ -124,13 +124,6 @@ I'm Rahul, a curious learner exploring how data and intelligent systems can solv
   <img width="70%" src="https://streak-stats.demolab.com?user=Rahul-Singh18&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 </div>
 
-### 📈 Contribution Activity
-
-<div align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Rahul-Singh18&bg_color=1a1b27&color=70a5fd&line=00d9ff&point=ffffff&area=true&hide_border=true" alt="GitHub activity graph" />
-</div>
-
----
 
 ## 🤝 Let's Connect
 
