@@ -7,7 +7,7 @@
   <img
     src="./profile.jpg"
     alt="Rahul Singh"
-    width="200"
+    width="1000"
     style="border-radius: 200%;"
   />
 </p>
