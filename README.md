@@ -15,7 +15,7 @@
 <div align="center">
 
 <a href="https://github.com/Rahul-Singh18">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=900&color=00D9FF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Rahul+%F0%9F%91%8B;Exploring+Data+Science+%F0%9F%93%8A;Learning+Artificial+Intelligence+%F0%9F%A4%96;Machine+Learning+Enthusiast+%F0%9F%A7%A0;Turning+Data+into+Insights+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=900&color=00D9FF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Rahul;Exploring+Data+Science+%F0%9F%93%8A;Learning+Artificial+Intelligence+%F0%9F%A4%96;Machine+Learning+Enthusiast+%F0%9F%A7%A0;Turning+Data+into+Insights+%E2%9C%A8" alt="Typing SVG" />
 </a>
 
 <br/>
