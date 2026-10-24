@@ -160,3 +160,11 @@ I'm always happy to learn from other developers, exchange ideas, and collaborate
   **💡 Stay curious. Keep building. Never stop learning.**
 </div>
 
+<p align="center">
+  <img
+    src="./profile.jpg"
+    alt="Rahul Singh"
+    width="200"
+    style="border-radius: 50%;"
+  />
+</p>
