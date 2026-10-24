@@ -5,7 +5,7 @@
 -->
 <p align="center">
   <img
-    src="./profile.jpg"
+    src="./notion.jpg"
     alt="Rahul Singh"
     width="500"
     style="border-radius: 200%;"
