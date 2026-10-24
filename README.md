@@ -3,6 +3,14 @@
   Profile repository must be named exactly: Rahul-Singh18
   Update the LinkedIn URL and featured-project placeholders before enabling them.
 -->
+<p align="center">
+  <img
+    src="./profile.jpg"
+    alt="Rahul Singh"
+    width="200"
+    style="border-radius: 200%;"
+  />
+</p>
 
 <div align="center">
 
@@ -160,11 +168,3 @@ I'm always happy to learn from other developers, exchange ideas, and collaborate
   **💡 Stay curious. Keep building. Never stop learning.**
 </div>
 
-<p align="center">
-  <img
-    src="./profile.jpg"
-    alt="Rahul Singh"
-    width="200"
-    style="border-radius: 50%;"
-  />
-</p>
