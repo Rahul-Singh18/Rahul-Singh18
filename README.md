@@ -1,7 +1,7 @@
 <!--
   Rahul Singh | GitHub Profile README
   Profile repository must be named exactly: Rahul-Singh18
-  Update the LinkedIn URL and featured-project placeholders before enabling them.
+  Update the LinkedIn URL and featured-project placeholders before enabling them..
 -->
 <p align="center">
   <img
